@@ -1,0 +1,10 @@
+NAME="MikuOS"
+ID=mikuos
+ID_LIKE="fedora"
+VERSION="0.1"
+VERSION_ID=0.1
+PRETTY_NAME="MikuOS 0.1 (Diva Edition)"
+ANSI_COLOR="0;36"
+HOME_URL="https://github.com/shinylisan/miku-os"
+VARIANT="Kinoite"
+VARIANT_ID=kinoite
