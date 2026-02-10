@@ -14,7 +14,7 @@ image-version: latest
 modules:
   - type: files
     files:
-      - source: system
+      - source: .
         destination: / # copies files/system/* (* means everything inside it) into your image's root folder /
 
   - type: dnf
