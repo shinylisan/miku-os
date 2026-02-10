@@ -19,8 +19,9 @@ modules:
 
   - type: dnf
     install:
-      - micro
-      - starship
+      packages:
+        - micro
+        - starship
 
   - type: default-flatpaks
     configurations:
