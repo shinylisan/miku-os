@@ -60,3 +60,7 @@ ln -sfv $MIKU_MASTER $FEDORA_BG_DIR/default.png
 ln -sfv $MIKU_MASTER $FEDORA_BG_DIR/default-dark.png
 
 echo "=== MikuOS Takeover Complete ==="
+
+# Refresh the font cache so the system 'sees' Comfortaa
+echo "Indexing MikuOS fonts..."
+fc-cache -fv /usr/share/fonts/Comfortaa
