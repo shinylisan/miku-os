@@ -3,9 +3,11 @@
 AccentColor=130,195,196
 ColorScheme=BreezeLight
 
-# Comfortaa Font Setup
+# The 'Main' UI font
 font=Comfortaa,10,-1,5,50,0,0,0,0,0,Regular
-fixed=Comfortaa,10,-1,5,50,0,0,0,0,0,Regular
+# The ONLY one that should be different
+fixed=Noto Sans Mono,10,-1,5,50,0,0,0,0,0,Regular
+# The rest stay Comfortaa
 smallestReadableFont=Comfortaa,8,-1,5,50,0,0,0,0,0,Regular
 toolBarFont=Comfortaa,10,-1,5,50,0,0,0,0,0,Regular
 menuFont=Comfortaa,10,-1,5,50,0,0,0,0,0,Regular
