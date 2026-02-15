@@ -12,3 +12,7 @@ smallestReadableFont=Comfortaa,8,-1,5,50,0,0,0,0,0,Regular
 toolBarFont=Comfortaa,10,-1,5,50,0,0,0,0,0,Regular
 menuFont=Comfortaa,10,-1,5,50,0,0,0,0,0,Regular
 windowTitleFont=Comfortaa,10,-1,5,75,0,0,0,0,0,Bold
+
+[KDE]
+# This swaps Fedora's Dark branding for Standard Breeze Light
+LookAndFeelPackage=org.kde.breeze.desktop
