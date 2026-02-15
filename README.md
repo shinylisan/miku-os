@@ -2,14 +2,11 @@
 
 See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup instructions for setting up your own repository based on this template.
 
-After setup, it is recommended you update this README to describe your custom image.
+MikuOS is a learning experiment in image-based distros. We are currently in the experimental stage, focusing on perfecting the Atomic image. The .iso file is not currently in development.
 
 ## Installation
 
-> [!WARNING]  
-> [This is an experimental feature](https://www.fedoraproject.org/wiki/Changes/OstreeNativeContainerStable), try at your own discretion.
-
-To rebase an existing atomic Fedora installation to the latest build:
+To rebase an existing atomic Fedora installation to the latest MikuOS build:
 
 - First rebase to the unsigned image, to get the proper signing keys and policies installed:
   ```
