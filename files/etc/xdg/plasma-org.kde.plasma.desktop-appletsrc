@@ -1,0 +1,7 @@
+[SerializationSettings]
+# This tells the desktop to use your Miku wallpaper path by default
+[Containments][1][Applets][2][Configuration][ConfigDialog]
+Wallpaper=/usr/share/wallpapers/MikuOS/contents/images/1920x1080.png
+
+[Containments][1][Wallpaper][org.kde.image][General]
+Image=/usr/share/wallpapers/MikuOS/contents/images/1920x1080.png
