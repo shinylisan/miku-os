@@ -2,7 +2,7 @@
 
 See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup instructions for setting up your own repository based on this template.
 
-MikuOS is a learning experiment in image-based distros. We are currently in the experimental stage, focusing on perfecting the Atomic image. The .iso file is not currently in development.
+MikuOS is a learning experiment in image-based distros. We are currently in the experimental stage, focusing on perfecting the image's aesthetics and compatibility. The .iso file is not currently in development.
 
 ## Installation
 
