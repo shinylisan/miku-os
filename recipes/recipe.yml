@@ -47,3 +47,4 @@ modules:
   - type: script
     scripts:
       - fix-icons.sh
+      - fix-branding.sh
