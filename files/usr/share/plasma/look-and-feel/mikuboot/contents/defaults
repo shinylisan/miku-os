@@ -6,7 +6,7 @@ cursorTheme=mikursor
 
 [kcminputrc][Mouse]
 cursorTheme=mikursor
-cursorSize=30
+cursorSize=48
 
 [kcminputrc][Icons]
 Theme=Cyan-Breeze-Dark-Icons
